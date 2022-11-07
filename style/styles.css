@@ -1,0 +1,14 @@
+.center1 {
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+    width: 100%;
+}
+
+.center2 {
+    height: 30%;
+}
+
+.textnav {
+    color:#004aad;
+}
