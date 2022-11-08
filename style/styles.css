@@ -1,14 +1,25 @@
 .center1 {
-    display: block;
+    display: flex;
     margin-left: 0px;
     margin-right: auto;
     width: 100%;
 }
 
-.center2 {
-    height: 30%;
-}
-
 .textnav {
     color:#004aad;
+    font-size: 40px;
 }
+
+.font1 {font-family: 'Alata', sans-serif;
+}
+
+.font2 {font-family: 'Familjen Grotesk', sans-serif;
+}
+
+/* WhatsApp Button */
+
+.whatsappbutton { background-color: #7ACC72; /* Green */ border: none; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 20px; padding: 10px 20px; margin-top: 10px !important; width: fit-content; margin: auto; cursor: pointer }
+
+.whatsappbutton span { vertical-align: text-bottom !important; }
+
+.fa-whatsapp { margin-right: 10px; }
