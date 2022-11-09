@@ -1,3 +1,4 @@
+/* General */
 .center1 {
     display: flex;
     margin-left: 0px;
@@ -23,3 +24,9 @@
 .whatsappbutton span { vertical-align: text-bottom !important; }
 
 .fa-whatsapp { margin-right: 10px; }
+
+@media (max-width: 991px) {
+    .textnav{
+        font-size: 15px;
+    }
+}
